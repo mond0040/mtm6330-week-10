@@ -88,4 +88,6 @@ $(document).ready(function ($) {
       $('#posts').append(post)
     }
   })
+
+  AOS.init()
 })
